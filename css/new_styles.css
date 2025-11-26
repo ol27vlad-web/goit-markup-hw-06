@@ -88,6 +88,7 @@ button {
 .nav-list,
 .address {
     display: none;
+    gap:40px;
 }
 
 .main-logo {
